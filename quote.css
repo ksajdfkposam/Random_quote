@@ -1,0 +1,59 @@
+.div-1{
+    width: 100%;
+    height:97.7vh;
+    background-color: rgba(4, 115, 218, 0.885);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+position: relative;
+
+}
+
+.div-2{
+    width:50%;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px 1px;
+
+}
+.para{
+    margin-left: 27%;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+#para-1{
+    margin-left: 10%;
+    font-weight: lighter;
+    font-size: 28px;
+    margin-right:5%;
+}
+.div-3{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width:15%;
+    padding: 7px 7px;
+   
+    border-radius: 10px;
+    margin-right: 5%;
+    margin-bottom: 5px;
+    background-color: slateblue;
+    
+    
+}
+
+.btn-1{
+    width:15%;
+    padding: 7px 7px;
+   
+    border-radius: 10px;
+    margin-right: 5%;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+    
+    
+}
+
